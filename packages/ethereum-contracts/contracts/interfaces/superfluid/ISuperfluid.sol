@@ -15,8 +15,8 @@ import {
     BatchOperation
 } from "./Definitions.sol";
 import { TokenInfo } from "../tokens/TokenInfo.sol";
-import { IERC20 } from "@openzeppelin/contracts/token/ERC20/IERC20.sol";
-import { IERC777 } from "@openzeppelin/contracts/token/ERC777/IERC777.sol";
+import { IERC20 } from "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
+import { IERC777 } from "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC777/IERC777.sol";
 
 
 /**
